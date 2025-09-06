@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+    <img src="https://img.shields.io/badge/vue.js-0c6d14?style=flat&logo=vuedotjs&logoColor=white" />
 </p>
 
 ### 🛠️ Backend & Infra
