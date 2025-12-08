@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
     <img src="https://img.shields.io/badge/vue.js-0c6d14?style=flat&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/nuxt-ffffff?style=flat&logo=nuxt&logoColor=green" />
 </p>
 
 ### 🛠️ Backend & Infra
