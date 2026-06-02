@@ -52,7 +52,7 @@
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 
 <table align="center">
   <tr>
