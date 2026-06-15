@@ -1,6 +1,6 @@
 <div align="center">
 
-## 주영 | Frontend Developer
+## 주영 | Web Developer
 더 나은 웹 경험을 만들기 위해 매일 배우고 성장하는 개발자입니다.
 
 </div>
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" />
+     <img src="https://img.shields.io/badge/vue.js-0c6d14?style=flat&logo=vuedotjs&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Collaboration
@@ -34,7 +35,6 @@
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
-    <img src="https://img.shields.io/badge/vue.js-0c6d14?style=flat&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/nuxt-ffffff?style=flat&logo=nuxt&logoColor=green" />
 </p>
 
