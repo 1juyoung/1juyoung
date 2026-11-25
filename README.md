@@ -34,10 +34,10 @@
 
 | 기간 | 프로젝트 / 설명 |
 |:---:|---|
-| 2026.07 ~ 2026.08<br/>(2개월) | **[두리모아](https://github.com/1juyoung?tab=repositories)** 예비부부 결혼 자금 마련을 위한 공동 자산관리 서비스<br/>• 프론트엔드 리드 및 백엔드 개발 |
-| 2025.05 ~ 2025.06<br/>(4주) | **[리뷰엉 (Reviewong)](https://github.com/1juyoung?tab=repositories)** 개발자 코드 리뷰 서비스<br/>• 풀스택 개발 |
-| 2025.03 ~ 2025.04<br/>(4주) | **[Eat the Weather](https://github.com/1juyoung?tab=repositories)** 개인 체질 기반 맞춤형 날씨 서비스<br/>• 풀스택 개발 |
-| 2024.03 ~ 2024.10 | **[FaceMeet](https://github.com/1juyoung?tab=repositories)** 실시간 표정 분석 기반 화상회의 서비스<br/>• 프론트엔드 리드 및 백엔드 개발 (실시간 채팅 및 화상 통화 기능 단독 구현) |
+| 2026.07 ~ 2026.08<br/>(2개월) | **[두리모아](https://github.com/1juyoung/DuriMoa-Frontend)** 예비부부 결혼 자금 마련을 위한 공동 자산관리 서비스<br/>• 프론트엔드 리드 및 백엔드 개발 |
+| 2025.05 ~ 2025.06<br/>(4주) | **[리뷰엉 (Reviewong)](https://github.com/1juyoung/reviewong)** 개발자 코드 리뷰 서비스<br/>• 풀스택 개발 |
+| 2025.03 ~ 2025.04<br/>(4주) | **[Eat the Weather](https://github.com/1juyoung/Eat-The-Weather)** 개인 체질 기반 맞춤형 날씨 서비스<br/>• 풀스택 개발 |
+| 2024.03 ~ 2024.10 | **[FaceMeet](https://github.com/1juyoung/facemeet-refactor-frontend)** 실시간 표정 분석 기반 화상회의 서비스<br/>• 프론트엔드 리드 및 백엔드 개발 (실시간 채팅 및 화상 통화 기능 단독 구현) |
 
 <div align="center">
 
